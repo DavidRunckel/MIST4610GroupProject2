@@ -83,6 +83,7 @@ Wesley, Naissan O, and Howard I Maibach. “Racial (Ethnic) Differences in Skin 
 
 National Library of Medicine, Kessler, R. C., Demler, O., Frank, R. G., Olfson, M., Pincus, H. A., Walters, E. E., Wang, P., Wells, K. B., & Zaslavsky, A. M. (2005, June 16). Prevalence and treatment of mental disorders, 1990 to 2003. The New England journal of medicine. https://pmc.ncbi.nlm.nih.gov/articles/PMC2847367/ 
 
-OSHA. (2024). Increase the proportion of children with mental health problems who get treatment - MHMD‑03 data. Increase the proportion of children with mental health problems who get treatment - Data - Healthy People 2030. https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/mental-health-and-mental-disorders/increase-proportion-children-mental-health-problems-who-get-treatment-mhmd-03/data?from=2019&group=Age+group&populations=12-17_years&state=United+States&to=2019&utm_source=chatgpt.com 
-Wikipedia. (2024, August 14). Hygiene hypothesis. https://en.wikipedia.org/wiki/Hygiene_hypothesis?utm_source=chatgpt.com 
+OSHA. (2024). Increase the proportion of children with mental health problems who get treatment - MHMD‑03 data. Increase the proportion of children with mental health problems who get treatment - Data - Healthy People 2030. https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/mental-health-and-mental-disorders/increase-proportion-children-mental-health-problems-who-get-treatment-mhmd-03/data?from=2019&group=Age+group&populations=12-17_years&state=United+States&to=2019
+
+Wikipedia. (2024, August 14). Hygiene hypothesis. https://en.wikipedia.org/wiki/Hygiene_hypothesis? 
 
