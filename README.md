@@ -2,9 +2,9 @@
 
 ## Team Name and Members
 **group8**
-- Forcucci, Enzo:
+- Forcucci, Enzo: https://github.com/En9o/EFPG2
 - Runckel, David
-- Trotman, William:
+- Trotman, William: https://github.com/wptrot/MIST4610GroupProject2
   
 ## Dataset Description
 Our group chose to visualize the dataset "Health conditions among children under age 18, by selected characteristics: United States" provided by the U.S. Department of Health & Human Services. This is because, in an ideal world, no child should have to battle with health conditions and if we could use this data to formulate possible solutions, then that would help us reach our ultimate goal.
